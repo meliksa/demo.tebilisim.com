@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<?xml version="1.0" encoding="utf-8" ?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Yapay Zeka Haberleri</title>
     <link>https://www.siteniz.com/rss</link>
@@ -11,7 +11,7 @@
       <description>Bu yapay zeka haberinin açıklaması.</description>
       <pubDate>Wed, 14 May 2025 23:40:03 +0000</pubDate>
       <author>meliksa@siteniz.com</author>
-      <content:encoded>&lt;p&gt;Bu haber yapay zeka tarafından revize edilmiştir.&lt;/p&gt;</content:encoded>
+      <content:encoded><![CDATA[<p>Bu haber yapay zeka tarafından revize edilmiştir.</p>]]></content:encoded>
       <category>Yapay Zeka, Teknoloji</category>
     </item>
     <item>
@@ -20,8 +20,8 @@
       <description>Başka bir haber açıklaması.</description>
       <pubDate>Wed, 14 May 2025 23:40:03 +0000</pubDate>
       <author>meliksa@siteniz.com</author>
-      <content:encoded>&lt;p&gt;Başka bir yapay zeka haberi.&lt;/p&gt;</content:encoded>
-      <category>Bilim, Gelişmeler</category> 
+      <content:encoded><![CDATA[<p>Başka bir yapay zeka haberi.</p>]]></content:encoded>
+      <category>Bilim, Gelişmeler</category>
     </item>
   </channel>
 </rss>

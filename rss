@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yapay Zeka Haberleri</title>
-    <link>https://www.siteniz.com/rss</link>
+    <link>https://transcendent-cat-c855cc.netlify.app/rss</link>
     <description>Yapay Zeka tarafından düzenlenen haberler</description>
     <language>tr-TR</language>
+    <atom:link href="https://transcendent-cat-c855cc.netlify.app/rss" rel="self" type="application/rss+xml" />
     <item>
       <title>Haber Başlığı 1</title>
-      <link>https://www.siteniz.com/haber/image1.jpg</link>
+      <link>https://transcendent-cat-c855cc.netlify.app/haber-1</link>
       <description>Bu yapay zeka haberinin açıklaması.</description>
       <pubDate>Wed, 14 May 2025 23:40:03 +0000</pubDate>
-      <author>meliksa@siteniz.com</author>
+      <author>Meliksa <meliksa@siteniz.com></author>
+      <guid>https://transcendent-cat-c855cc.netlify.app/haber-1</guid>
       <content:encoded><![CDATA[<p>Bu haber yapay zeka tarafından revize edilmiştir.</p>]]></content:encoded>
       <category>Yapay Zeka, Teknoloji</category>
     </item>
     <item>
       <title>Haber Başlığı 2</title>
-      <link>https://www.siteniz.com/haber/image2.jpg</link>
+      <link>https://transcendent-cat-c855cc.netlify.app/haber-2</link>
       <description>Başka bir haber açıklaması.</description>
-      <pubDate>Wed, 14 May 2025 23:40:03 +0000</pubDate>
-      <author>meliksa@siteniz.com</author>
+      <pubDate>Wed, 14 May 2025 23:45:03 +0000</pubDate>
+      <author>Meliksa <meliksa@siteniz.com></author>
+      <guid>https://transcendent-cat-c855cc.netlify.app/haber-2</guid>
       <content:encoded><![CDATA[<p>Başka bir yapay zeka haberi.</p>]]></content:encoded>
       <category>Bilim, Gelişmeler</category>
     </item>

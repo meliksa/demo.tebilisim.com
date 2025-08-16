@@ -1,32 +1,51 @@
-<?xml version="1.0" encoding="utf-8" ?>
-<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
   <channel>
-    <title></title>
-    <link></link>
-    <description></description>
-    <language></language>
-    <content></content>
-    <atom:link href="https://transcendent-cat-c855cc.netlify.app/rss" rel="self" type="application/rss+xml" />
+    <title>Trabzon Güncel Haber RSS</title>
+    <link>https://mellissa.github.io/demo.tebilisim.com</link>
+    <description>Trabzon ve çevre illeri ile ilgili güncel haberler - AI destekli haber platformu</description>
+    <language>tr-TR</language>
+    <managingEditor>admin@tebilisim.com</managingEditor>
+    <webMaster>webmaster@tebilisim.com</webMaster>
+    <lastBuildDate>Sat, 16 Aug 2025 20:39:26 </lastBuildDate>
+    <pubDate>Sat, 16 Aug 2025 20:39:26 </pubDate>
+    <generator>Trabzon RSS Generator v1.0</generator>
+    <atom:link href="https://mellissa.github.io/demo.tebilisim.com/rss_feed.xml" rel="self" type="application/rss+xml"/>
     <item>
-      <title>Akçaabat Belediye Başkanı'ndan 19 Mayıs Mesajı</title>
-      <link>https://transcendent-cat-c855cc.netlify.app/akcaabat-belediye-baskanindan-19-mayis-mesaji</link>
-      <description>Akçaabat Belediye Başkanı Osman Nuri Ekim, 19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı’nın 106. yılında anlamlı bir mesaj yayımladı.</description>
-      <pubDate>Sun, 18 May 2025 23:58:18 +0000</pubDate>
-      <author>Meliksa &lt;meliksa@siteniz.com&gt;</author>
-      <guid>https://transcendent-cat-c855cc.netlify.app/akcaabat-belediye-baskanindan-19-mayis-mesaji</guid>
-      <content><![CDATA[</p><p class="ds-markdown-paragraph"><strong>Başkan Ekim’den 19 Mayıs’ta Anlamlı Kutlama</strong></p><p class="ds-markdown-paragraph">Akçaabat Belediye Başkanı Osman Nuri Ekim, 19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramı dolayısıyla bir kutlama mesajı yayımladı. Başkan Ekim, milli mücadelenin başlangıcının 106. yıl dönümünde, gençlere ve tüm halka seslendi.</p><p class="ds-markdown-paragraph"><strong>"19 Mayıs, Milletin Dirilişinin Sembolüdür"</strong></p><p class="ds-markdown-paragraph">Başkan Ekim, mesajında şu ifadelere yer verdi: <em>"19 Mayıs 1919, Gazi Mustafa Kemal Atatürk’ün Samsun’a çıkarak bağımsızlık meşalesini yaktığı tarihtir. Bu adım, Türk milletinin küllerinden doğuşunun ve Cumhuriyet’e uzanan yolun başlangıcıdır."</em></p><p class="ds-markdown-paragraph"><strong>Gençlere Büyük Sorumluluk Çağrısı</strong></p><p class="ds-markdown-paragraph">Ekim, gençlere hitaben, <em>"Sizler, bu vatanın geleceğisiniz. Atatürk’ün emanetine sahip çıkarak, bilimde, sanatta ve sporda ülkemizi daha ileriye taşımalısınız."</em> dedi.</p><p class="ds-markdown-paragraph"><strong>Şehitler ve Gaziler Anıldı</strong></p><p class="ds-markdown-paragraph">19 Mayıs’ın aynı zamanda bir minnet günü olduğunu belirten Başkan Ekim, <em>"Aziz şehitlerimizi ve gazilerimizi rahmetle anıyor, bayramımızı kutluyorum."</em> ifadelerini kullandı.</p>]]></content>
-      <category>19 Mayıs, Akçaabat Belediyesi</category>
+      <title>Araklı&amp;#x27;da Eğitim Müdürlüğüne Şentürk Atandı</title>
+      <link>https://mellissa.github.io/demo.tebilisim.com/haber/araklida-egitim-mudurlugune-senturk-atandi</link>
+      <guid>https://mellissa.github.io/demo.tebilisim.com/haber/araklida-egitim-mudurlugune-senturk-atandi</guid>
+      <description>Araklı İlçe Milli Eğitim Müdürlüğü&amp;#x27;ne Süleyman Şentürk atandı. Yavuz Üstündağ&amp;#x27;ın görevi devrettiği Şentürk, yeni dönemde eğitimde başarı hedefliyor....</description>
+      <content:encoded>&lt;![CDATA[&lt;/p&gt;&lt;p class=&quot;ds-markdown-paragraph&quot;&gt;&lt;strong&gt;Araklı'da Eğitimde Yeni Dönem&lt;/strong&gt;&lt;br&gt;Trabzon'un Araklı ilçesinde ilçe milli eğitim müdürlüğü görevinde değişim yaşandı. Yavuz Üstündağ'ın ayrılmasının ardından boşalan koltuğa, Araklı Halk Eğitim Müdürü Süleyman Şentürk getirildi.&lt;/p&gt;&lt;p class=&quot;ds-markdown-paragraph&quot;&gt;&lt;strong&gt;Şentürk'ün Hedefi Eğitimde Kalite&lt;/strong&gt;&lt;br&gt;Yeni atanan İlçe Milli Eğitim Müdürü Süleyman Şentürk, göreve başlamasının ardından ilk açıklamalarını yaptı. Araklı'daki eğitim standartlarını yükseltmeyi ve öğrencilerin başarısını artırmayı hedeflediğini belirten Şentürk, &quot;Tüm paydaşlarla iş birliği içinde çalışacağız&quot; dedi.&lt;/p&gt;&lt;p class=&quot;ds-markdown-paragraph&quot;&gt;&lt;strong&gt;Üstündağ'ın Veda Mesajı&lt;/strong&gt;&lt;br&gt;Görevi devralan Yavuz Üstündağ ise sosyal medyadan yaptığı paylaşımda, Araklı'da geçirdiği süre için teşekkür ederek, yeni müdüre başarılar diledi. Eğitim camiasının yeni dönemde daha da güçleneceğine inandığını ifade etti.&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Sat, 16 Aug 2025 20:39:26 </pubDate>
+      <category>Araklı Milli Eğitim</category>
+      <category>Süleyman Şentürk</category>
+      <dc:creator>Trabzon Haber Editörü</dc:creator>
+      <enclosure url="https://www.trabzonx.com/images/haberler/2025/08/ustundag-gitti-senturk-geldi-6818.jpg" type="image/jpeg" length="0"/>
     </item>
     <item>
-      <title>Akçaabat'ta Yayla Göçü Başladı: 5 Günlük Yolculuk</title>
-      <link>https://transcendent-cat-c855cc.netlify.app/akcaabatta-yayla-gocu-basladi-5-gunluk-yolculuk</link>
-      <description>Akçaabat Derecik'te yayla göçü başladı. Besiciler, Salmankaş Yaylası'na ulaşmak için zorlu 5 günlük yolculuğa çıktı. Yöre halkı göçü şenlikle uğurladı.</description>
-      <pubDate>Sun, 18 May 2025 23:58:18 +0000</pubDate>
-      <author>Meliksa &lt;meliksa@siteniz.com&gt;</author>
-      <guid>https://transcendent-cat-c855cc.netlify.app/akcaabatta-yayla-gocu-basladi-5-gunluk-yolculuk</guid>
-      <content><![CDATA[</p><p class="ds-markdown-paragraph">Doğu Karadeniz’de yaylalara göç heyecanı başladı. Trabzon’un Akçaabat ilçesine bağlı Derecik Mahallesi’nde yaşayan besiciler, havaların ısınmasıyla birlikte yayla yoluna düştü.</p><p class="ds-markdown-paragraph">Bekir Çabuk ve oğlu Muharrem Çabuk, Salmankaş Yaylası’na ulaşmak için 5 gün sürecek zorlu yolculuğa başladı. Mahallede düzenlenen uğurlama şenliğinde yöre halkı ve diğer besiciler bir araya geldi.</p><p class="ds-markdown-paragraph"><strong>Göç Yolunda İlk Adım</strong></p><p class="ds-markdown-paragraph">Besiciler, hayvanlarını harmanlayarak bir gece mahallede konakladı. Sabahın ilk ışıklarında "Bismillah" diyerek yola koyuldular. Muharrem Çabuk, yayla yolculuğunun geleneksel bir heyecan taşıdığını belirterek, "Yaylaya çıkan tüm dostlarımızın yolu açık olsun. Rabbim kimseye zarar vermesin. Bu yıl da kardeşçe yola çıktık." dedi.</p><p class="ds-markdown-paragraph"><strong>Salmankaş Yaylası’na Ulaşım Zorlu Geçiyor</strong></p><p class="ds-markdown-paragraph">Yaylaya ulaşmak için engebeli ve uzun bir yol kat edecek olan besiciler, doğayla iç içe bir yolculuk yapacak. Yöre halkı, her yıl olduğu gibi bu yıl da göçün bereket getirmesini umuyor.</p>]]></content>
-      <category>yayla göçü, trabzon haber</category>
-
+      <title>Başkan Genç&amp;#x27;ten Madur Dağı&amp;#x27;na 21 Km Yol Müjdesi</title>
+      <link>https://mellissa.github.io/demo.tebilisim.com/haber/baskan-gencten-madur-dagina-21-km-yol-mujdesi</link>
+      <guid>https://mellissa.github.io/demo.tebilisim.com/haber/baskan-gencten-madur-dagina-21-km-yol-mujdesi</guid>
+      <description>Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, Madur Dağı&amp;#x27;na 21 kilometrelik yeni yol yapılacağını açıkladı. Yaylacılar ve ziyaretçiler için ulaşım kolaylaşıyor....</description>
+      <content:encoded>&lt;![CDATA[&lt;/p&gt;&lt;p class=&quot;ds-markdown-paragraph&quot;&gt;&lt;strong&gt;Madur Dağı’na Ulaşım Kolaylaşıyor&lt;/strong&gt;&lt;br&gt;Trabzon Büyükşehir Belediye Başkanı Ahmet Metin Genç, Köprübaşı ilçesinde düzenlenen etkinlikte yayla yollarına dair önemli açıklamalar yaptı. Harmantepe Şehitliği yolunun yarısının bu yıl, kalan kısmının ise gelecek yıl tamamlanacağını belirten Genç, Araklı Yeşilyurt üzerinden Madur Dağı'na ulaşan 11 kilometrelik yolun da betonlanacağını duyurdu.&lt;/p&gt;&lt;p class=&quot;ds-markdown-paragraph&quot;&gt;&lt;strong&gt;Birlik Mesajları ve Yatırım Vurgusu&lt;/strong&gt;&lt;br&gt;Köprübaşı Belediyesi ve Göktürk Trabzonlular Derneği tarafından düzenlenen etkinliğe katılan Başkan Genç, bölge halkına teşekkür ederek milli birlik mesajları verdi. &quot;Bu toprakları korumak hepimizin görevi&quot; diyen Genç, terörle mücadelede Türkiye'nin kararlılığını vurguladı.&lt;/p&gt;&lt;p class=&quot;ds-markdown-paragraph&quot;&gt;&lt;strong&gt;21 Kilometrelik Yol Çalışması Başlıyor&lt;/strong&gt;&lt;br&gt;Başkan Genç, Harmantepe yolunun Kahvedüzü üzerinden şehitliğe bağlanacağını, 10 kilometrelik kısmın iki yılda tamamlanacağını açıkladı. Ayrıca, tarihi kervan yolunu canlandıracak 11 kilometrelik yeni yol çalışmasının da gelecek yıl başlayacağını ifade etti. Bu projelerle yaylacıların ve ziyaretçilerin ulaşımı güvenli hale gelecek.&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Sat, 16 Aug 2025 20:39:26 </pubDate>
+      <category>Trabzon haber</category>
+      <category>Madur Dağı</category>
+      <dc:creator>Trabzon Haber Editörü</dc:creator>
+      <enclosure url="https://www.trabzonx.com/images/haberler/2025/08/baskan-genc-ten-yayla-yolu-mujdesi-2484.jpg" type="image/jpeg" length="0"/>
+    </item>
+    <item>
+      <title>CHP&amp;#x27;de Haluk Batmaz Rüzgarı: Beşirli&amp;#x27;de Fark Attı</title>
+      <link>https://mellissa.github.io/demo.tebilisim.com/haber/chpde-haluk-batmaz-ruzgari-besirlide-fark-atti</link>
+      <guid>https://mellissa.github.io/demo.tebilisim.com/haber/chpde-haluk-batmaz-ruzgari-besirlide-fark-atti</guid>
+      <description>CHP Trabzon&amp;#x27;da Haluk Batmaz&amp;#x27;ın Beşirli&amp;#x27;deki başarısı konuşuluyor. Delegelerden tam destek alan Batmaz, Ortahisar&amp;#x27;da dengeleri değiştiriyor....</description>
+      <content:encoded>&lt;![CDATA[&lt;/p&gt;&lt;p class=&quot;ds-markdown-paragraph&quot;&gt;&lt;strong&gt;CHP'de Haluk Batmaz Etkisi Büyüyor&lt;/strong&gt;&lt;br&gt;CHP Trabzon’da devam eden delege seçimlerinde Ortahisar İlçe Başkanı Haluk Batmaz öne çıkıyor. Parti tabanıyla kurduğu güçlü iletişim ve sahada sergilediği yoğun çalışma temposu, Batmaz’ın etkisini artırıyor.&lt;/p&gt;&lt;p class=&quot;ds-markdown-paragraph&quot;&gt;&lt;strong&gt;Beşirli’den Tam Destek Aldı&lt;/strong&gt;&lt;br&gt;Trabzon’un en kalabalık mahallelerinden Beşirli’de yapılan oylamada Batmaz’ın listesi 123 oy alarak öne geçti. Rakip listedeki adaylar ise 118 oyda kaldı. Bu sonuç, Batmaz’ın bölgedeki gücünü bir kez daha gösterdi.&lt;/p&gt;&lt;p class=&quot;ds-markdown-paragraph&quot;&gt;&lt;strong&gt;“Daha Çok Çalışıp, Daha Fazla Destek Alacağız”&lt;/strong&gt;&lt;br&gt;CHP’li delegeler, Batmaz’ın çalışkanlığının karşılık bulduğunu belirtiyor. Parti içindeki yorumlar, “Haluk Bey’in emeği belli. Tabanın güvenini kazandı, önümüzdeki süreçte daha da güçlenecek” şeklinde.&lt;/p&gt;&lt;p class=&quot;ds-markdown-paragraph&quot;&gt;&lt;strong&gt;Ortahisar’da Dengeler Değişiyor&lt;/strong&gt;&lt;br&gt;Kulislerde, Batmaz’ın delege seçimlerinden güçlenerek çıkacağı ve ilçe siyasetinde belirleyici rol oynayacağı konuşuluyor. Beyaz listedeki başarısı, Batmaz’ın CHP’deki geleceğine dair beklentileri artırıyor.&lt;/p&gt;]]&gt;</content:encoded>
+      <pubDate>Sat, 16 Aug 2025 20:39:26 </pubDate>
+      <category>CHP Trabzon</category>
+      <category>Haluk Batmaz</category>
+      <dc:creator>Trabzon Haber Editörü</dc:creator>
+      <enclosure url="https://www.trabzonx.com/images/haberler/2025/08/chp-de-haluk-batmaz-firtinasi-o-mahallede-ipi-gogusledi-4779.jpg" type="image/jpeg" length="0"/>
     </item>
   </channel>
 </rss>

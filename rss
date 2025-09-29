@@ -1,136 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-    <channel>
-        <title>Yayla Haberleri - Trabzon</title>
-        <description>Trabzon yaylaları hakkında güncel haberler ve doğa turizmi bilgileri</description>
-        <link>https://www.meliksahckr.net.tr</link>
-        <language>tr-TR</language>
-        <lastBuildDate>Sat, 06 Sep 2025 05:01:21 +0000</lastBuildDate>
-        <generator>Yayla Management System v2.0</generator>
-        <image>
-            <url>https://www.meliksahckr.net.tr/images/yayla-logo.png</url>
-            <title>Yayla Haberleri</title>
-            <link>https://www.meliksahckr.net.tr</link>
-            <width>120</width>
-            <height>60</height>
-        </image>
-
-        <item>
-            <title>Yukarı Oba Yaylası&apos;nda Huzurlu Bir Doğa Kaçamağı</title>
-            <description>Rize&apos;nin saklı cenneti Yukarı Oba Yaylası, yemyeşil vadileri ve sakin atmosferiyle doğaseverleri bekliyor. Keşfetmek için ideal rehber.</description>
-            <spot>Rize&apos;nin saklı cenneti Yukarı Oba Yaylası, yemyeşil vadileri ve sakin atmosferiyle doğaseverleri bek...</spot>
-            <image>http://www.meliksahckr.net.tr/images/yayla/yukari_oba_yaylasi.jpg</image>
-            <link>https://www.meliksahckr.net.tr/yayla/Yukar%C4%B1%20Oba%20Yaylas%C4%B1</link>
-            <guid isPermaLink="false">yayla-yukari-oba-yaylasi-20250906</guid>
-            <pubDate>Fri, 22 Aug 2025 18:15:24 +0000</pubDate>
-            <category>Yayla</category>
-            <category>Doğa Turizmi</category>
-            <category>Trabzon</category>
-            <category>Karadeniz</category>
-        </item>
-        <item>
-            <title>Yukarı Mavyera Yaylası: Saklı Cennette Doğa Kaçamağı</title>
-            <description>Rize&apos;nin saklı incisi Yukarı Mavyera Yaylası, eşsiz manzaraları ve huzur dolu atmosferiyle doğaseverleri bekliyor. Yayla turizminin yeni gözdesi.</description>
-            <spot>Rize&apos;nin saklı incisi Yukarı Mavyera Yaylası, eşsiz manzaraları ve huzur dolu atmosferiyle doğasever...</spot>
-            <image>http://www.meliksahckr.net.tr/images/yayla/yukari_mavyera_yaylasi.jpg</image>
-            <link>https://www.meliksahckr.net.tr/yayla/Yukar%C4%B1%20Mavyera%20Yaylas%C4%B1</link>
-            <guid isPermaLink="false">yayla-yukari-mavyera-yaylasi-20250906</guid>
-            <pubDate>Fri, 22 Aug 2025 18:33:54 +0000</pubDate>
-            <category>Yayla</category>
-            <category>Doğa Turizmi</category>
-            <category>Trabzon</category>
-            <category>Karadeniz</category>
-        </item>
-        <item>
-            <title></title>
-            <description></description>
-            <spot>...</spot>
-            <image>http://www.meliksahckr.net.tr/images/yayla/yavuz_yaylasi.jpg</image>
-            <link>https://www.meliksahckr.net.tr/yayla/Yavuz%20Yaylas%C4%B1</link>
-            <guid isPermaLink="false">yayla-yavuz-yaylasi-20250906</guid>
-            <pubDate>Sat, 06 Sep 2025 05:01:21 +0000</pubDate>
-            <category>Yayla</category>
-            <category>Doğa Turizmi</category>
-            <category>Trabzon</category>
-            <category>Karadeniz</category>
-        </item>
-        <item>
-            <title></title>
-            <description></description>
-            <spot>...</spot>
-            <image>http://www.meliksahckr.net.tr/images/yayla/yaylaonu_yaylasi.jpg</image>
-            <link>https://www.meliksahckr.net.tr/yayla/Yayla%C3%B6n%C3%BC%20Yaylas%C4%B1</link>
-            <guid isPermaLink="false">yayla-yaylaonu-yaylasi-20250906</guid>
-            <pubDate>Sat, 06 Sep 2025 05:01:21 +0000</pubDate>
-            <category>Yayla</category>
-            <category>Doğa Turizmi</category>
-            <category>Trabzon</category>
-            <category>Karadeniz</category>
-        </item>
-        <item>
-            <title></title>
-            <description></description>
-            <spot>...</spot>
-            <image>http://www.meliksahckr.net.tr/images/yayla/yazlik_yaylasi.jpg</image>
-            <link>https://www.meliksahckr.net.tr/yayla/Yazl%C4%B1k%20Yaylas%C4%B1</link>
-            <guid isPermaLink="false">yayla-yazlik-yaylasi-20250906</guid>
-            <pubDate>Sat, 06 Sep 2025 05:01:21 +0000</pubDate>
-            <category>Yayla</category>
-            <category>Doğa Turizmi</category>
-            <category>Trabzon</category>
-            <category>Karadeniz</category>
-        </item>
-        <item>
-            <title>Yeşildere Yaylası: Doğanın Kalbinde Saklı Cennet</title>
-            <description>Rize&apos;nin eşsiz doğa harikası Yeşildere Yaylası&apos;na yolculuk. Huzur dolu atmosferi, yemyeşil manzaraları ve kamp olanaklarıyla keşfedin.</description>
-            <spot>Rize&apos;nin eşsiz doğa harikası Yeşildere Yaylası&apos;na yolculuk. Huzur dolu atmosferi, yemyeşil manzarala...</spot>
-            <image>http://www.meliksahckr.net.tr/images/yayla/yesildere_yaylasi.jpg</image>
-            <link>https://www.meliksahckr.net.tr/yayla/Ye%C5%9Fildere%20Yaylas%C4%B1</link>
-            <guid isPermaLink="false">yayla-yesildere-yaylasi-20250906</guid>
-            <pubDate>Sat, 30 Aug 2025 08:16:57 +0000</pubDate>
-            <category>Yayla</category>
-            <category>Doğa Turizmi</category>
-            <category>Trabzon</category>
-            <category>Karadeniz</category>
-        </item>
-        <item>
-            <title>Yavuz Yaylası: Rize&apos;nin Saklı Cennetinde Doğa Kaçamağı</title>
-            <description>Rize&apos;nin eşsiz doğasıyla öne çıkan Yavuz Yaylası, yeşilin her tonunu görebileceğiniz, huzur dolu bir trekking ve kamp rotası.</description>
-            <spot>Rize&apos;nin eşsiz doğasıyla öne çıkan Yavuz Yaylası, yeşilin her tonunu görebileceğiniz, huzur dolu bir...</spot>
-            <image>http://www.meliksahckr.net.tr/images/yayla/yavuz_yaylasi.jpg</image>
-            <link>https://www.meliksahckr.net.tr/yayla/Yavuz%20Yaylas%C4%B1</link>
-            <guid isPermaLink="false">yayla-yavuz-yaylasi-20250906</guid>
-            <pubDate>Sat, 06 Sep 2025 02:21:48 +0000</pubDate>
-            <category>Yayla</category>
-            <category>Doğa Turizmi</category>
-            <category>Trabzon</category>
-            <category>Karadeniz</category>
-        </item>
-        <item>
-            <title>Yaylaönü Yaylası: Doğanın Kalbinde Bir Saklı Cennet</title>
-            <description>Rize&apos;nin eşsiz doğasıyla bütünleşen Yaylaönü Yaylası, yemyeşil vadileri ve huzur dolu atmosferiyle unutulmaz bir kaçış sunuyor.</description>
-            <spot>Rize&apos;nin eşsiz doğasıyla bütünleşen Yaylaönü Yaylası, yemyeşil vadileri ve huzur dolu atmosferiyle u...</spot>
-            <image>http://www.meliksahckr.net.tr/images/yayla/yaylaonu_yaylasi.jpg</image>
-            <link>https://www.meliksahckr.net.tr/yayla/Yayla%C3%B6n%C3%BC%20Yaylas%C4%B1</link>
-            <guid isPermaLink="false">yayla-yaylaonu-yaylasi-20250906</guid>
-            <pubDate>Sat, 06 Sep 2025 02:22:32 +0000</pubDate>
-            <category>Yayla</category>
-            <category>Doğa Turizmi</category>
-            <category>Trabzon</category>
-            <category>Karadeniz</category>
-        </item>
-        <item>
-            <title>Yazlık Yaylası: Yeşilin ve Huzurun Doruk Noktası</title>
-            <description>Rize&apos;nin saklı cenneti Yazlık Yaylası, eşsiz manzaraları ve doğal güzellikleriyle trekking ve kamp tutkunlarını bekliyor. Detaylı rehber.</description>
-            <spot>Rize&apos;nin saklı cenneti Yazlık Yaylası, eşsiz manzaraları ve doğal güzellikleriyle trekking ve kamp t...</spot>
-            <image>http://www.meliksahckr.net.tr/images/yayla/yazlik_yaylasi.jpg</image>
-            <link>https://www.meliksahckr.net.tr/yayla/Yazl%C4%B1k%20Yaylas%C4%B1</link>
-            <guid isPermaLink="false">yayla-yazlik-yaylasi-20250906</guid>
-            <pubDate>Sat, 06 Sep 2025 02:23:16 +0000</pubDate>
-            <category>Yayla</category>
-            <category>Doğa Turizmi</category>
-            <category>Trabzon</category>
-            <category>Karadeniz</category>
-        </item>
-    </channel>
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<script id="eppiocemhmnlbhjplcgkofciiegomcon"/>
+<script/>
+<script/>
+<channel>
+<title>Yayla Haberleri - Trabzon</title>
+<link>https://www.meliksahckr.net.tr</link>
+<description>Trabzon yaylaları hakkında güncel haberler ve doğa turizmi bilgileri</description>
+<!--  Önerilen atom:link  -->
+<atom:link href="https://meliksahckr.net.tr/rss/yayla_feed.xml" rel="self" type="application/rss+xml"/>
+<item>
+<guid isPermaLink="false">yayla-yukari-oba-20250906-1</guid>
+<title>
+<![CDATA[ Yukarı Oba Yaylası'nda Huzurlu Bir Doğa Kaçamağı ]]>
+</title>
+<description>
+<![CDATA[ Rize'nin saklı cenneti Yukarı Oba Yaylası, yemyeşil vadileri ve sakin atmosferiyle doğaseverleri bekliyor. ]]>
+</description>
+<link>https://www.meliksahckr.net.tr/yayla/Yukar%C4%B1%20Oba%20Yaylas%C4%B1</link>
+<media:content url="http://www.meliksahckr.net.tr/images/yayla/yukari_oba_yaylasi.jpg" type="image/jpeg"/>
+<pubDate>Fri, 22 Aug 2025 18:15:24 +0000</pubDate>
+<category>Yayla</category>
+<category>Doğa Turizmi</category>
+<category>Trabzon</category>
+<category>Karadeniz</category>
+</item>
+</channel>
 </rss>
